@@ -4,4 +4,7 @@
 # Getting Started
 **This instruction can be copied and you can clone or download 
 # Prerequisites
-Git\Python
+**Git
+**Python
+#Buit With
+**Python - a programming language that lets you work quickly and easily
