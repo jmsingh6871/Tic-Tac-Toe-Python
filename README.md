@@ -6,5 +6,4 @@
 # Prerequisites
 **Git**
 **Python**
-# Buit With
-**Python - a programming language that lets you work quickly and easily**
+
