@@ -4,6 +4,5 @@
 # Getting Started
 **This instruction can be copied and you can clone or download** 
 # Prerequisites
-**Git**
-**Python**
+
 
